@@ -6,9 +6,9 @@ from handler import XMLProcessor, JSONProcessor, BaseProcessor
 
 def print_result(filepath, handler: BaseProcessor):
     if handler.isValid():
-        print(">> Valid Transaction in " + filepath + "\n")
+        print("\n>> Valid Transaction in " + filepath + "\n")
     else:
-        print(">> NOT Valid Transaction in " + filepath + "\n")
+        print("\n>> NOT Valid Transaction in " + filepath + "\n")
 
 
 if __name__ == '__main__':
