@@ -4,7 +4,7 @@ self.data indicate to the loaded data from any file **[JSON , XML]**, and the st
 
 * To run code using terminal : 
 ```
-python main.py filepath/transactionfile
+python main.py filepath/[transactionfile]
 
 ```
 * To run code using docker need to build docker image and run it :
