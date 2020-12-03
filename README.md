@@ -1,6 +1,6 @@
 # Custom Library 
 ### To validate a transaction data with different formate , e.g: JSON , XML .
-self.data indicate to the loaded data from any file **[JSON , XML]**, and the struct of this data is same in after reading any file 
+self.data indicate to the loaded data from any file **[JSON , XML]**, and the struct of this data will be same after reading any file 
 
 * To run code using terminal : 
 ```
